@@ -9,5 +9,6 @@ From [create-react-app](https://github.com/facebookincubator/create-react-app/):
 ```node
 npm install -g create-react-app
 cd techops-dashboard
+npm install
 npm start
 ```
