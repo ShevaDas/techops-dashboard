@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import ContactCard from './components/ContactCard';
 import EquipmentCard from './components/EquipmentCard';
+import Clock from './components/Clock';
 import logo from './img/techops.png';
 import './App.css';
 
@@ -15,6 +16,7 @@ class App extends Component {
       <div className="app">
         <div className="app-header">
           <img src={logo} className="techops-logo" alt="logo" />
+          <Clock />
         </div>
         <div className="row">
           <div className="col s3">
