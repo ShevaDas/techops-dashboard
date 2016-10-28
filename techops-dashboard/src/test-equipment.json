@@ -1,0 +1,37 @@
+[
+  {
+    "numberLeft": 5,
+    "equipment": "Radios Available",
+    "singular": "Radio Available"
+  },
+  {
+    "numberLeft": 156,
+    "equipment": "Active DHCP Leases",
+    "singular": "Active DHCP Lease"
+  },
+  {
+    "numberLeft": 1,
+    "equipment": "On-Shift TechOps Staffers",
+    "singular": "Lonely TechOps Staffer"
+  },
+  {
+    "numberLeft": 9000,
+    "equipment": "Twitch Stream Viewers",
+    "singular": "Twitch Stream Viewer"
+  },
+  {
+    "numberLeft": 15746,
+    "equipment": "Attendees Checked In",
+    "singular": "Attendee Checked In"
+  },
+  {
+    "numberLeft": 20000,
+    "equipment": "Attendees Registered",
+    "singular": "Attendee Registered"
+  },
+  {
+    "numberLeft": 5,
+    "equipment": "Gooooolden Rings",
+    "singular": "Gooooolden Ring"
+  }
+]
