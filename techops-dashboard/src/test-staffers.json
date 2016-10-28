@@ -1,0 +1,23 @@
+[
+  {
+    "avatar": "./img/luna_avatar.png",
+    "title": "Department Head",
+    "name": "Sheva Goldberg",
+    "slackHandle": "@sheva",
+    "cell": "781-420-2069"
+  },
+  {
+    "avatar": "./img/joe_avatar.jpeg",
+    "title": "Department Head",
+    "name": "Joe Cooter",
+    "slackHandle": "@nikgod",
+    "cell": "781-420-2069"
+  },
+  {
+    "avatar": "./img/chaney_avatar.jpg",
+    "title": "Desk Manager",
+    "name": "Lisa Hartsock",
+    "slackHandle": "@chaney",
+    "cell": "781-420-2069"
+  }
+]
